@@ -282,7 +282,7 @@ public:
 					cout << arr[i][j] << "  ";
 				}
 				else {
-					SetConsoleTextAttribute(hConsole, 7);
+					SetConsoleTextAttribute(hConsole, 7);	
 					cout << arr[i][j] << "  ";
 				}
 			}
